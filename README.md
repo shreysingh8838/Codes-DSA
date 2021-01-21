@@ -1,7 +1,7 @@
 # Codes-DSA
-Fork this repository
-Clone or download the repo
-make directory
-make a file in this having competitive code whether basic or advance
-push the changes
-I will make your commit into contribution
+1. Fork this repository
+2. Clone or download the repo
+3. make directory
+4. make a file in this having competitive code whether basic or advance
+5. push the changes
+6. I will make your commit into contribution
